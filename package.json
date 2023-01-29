@@ -1,0 +1,19 @@
+{
+  "name": "assessnodejs",
+  "version": "1.0.0",
+  "description": "assess apps using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AinulMutaqin/assessNodeJs.git"
+  },
+  "author": "ainul.mutaqin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AinulMutaqin/assessNodeJs/issues"
+  },
+  "homepage": "https://github.com/AinulMutaqin/assessNodeJs#readme"
+}
